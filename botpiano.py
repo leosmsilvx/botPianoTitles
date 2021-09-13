@@ -18,7 +18,7 @@ i = 0
 # Pixels on the screen
 rec_px = [760, 920, 1050, 1200]
 while i == 0:
-    # s is the ket to start
+    # s is the key to start
     if keyboard.is_pressed('s') == True:
         close = False
         while close == False:
